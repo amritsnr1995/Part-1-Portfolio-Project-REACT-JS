@@ -16,7 +16,7 @@
     height: 80px;
     padding: 0px 20px;
     &__logo {
-      color: var(--yellow-theme-main-color);
+      color: var(--selected-theme-main-color);
       cursor: pointer;
       font-size: 2rem;
       flex-grow: 1;
@@ -43,7 +43,7 @@
           background: var(--yellow-theme-main-color);
         }
         &__links {
-          color: var(--yellow-theme-main-color);
+          color: var(--selected-theme-main-color);
           text-decoration: none;
           padding: 0.5rem 1rem;
         }
